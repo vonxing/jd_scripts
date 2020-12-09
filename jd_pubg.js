@@ -19,7 +19,7 @@
  // quantumultx
  [task_local]
  #京东星推官
- 2 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_xtg.js, tag=京东星推官, enabled=true
+ 2 0 * * * https://raw.githubusercontent.com/vonxing/jd_scripts/master/jd_pubg.js, tag=京东PUBG, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd.png, enabled=true
  // Loon
  [Script]
  cron "2 0 * * *" script-path=https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_xtg.js,tag=京东星推官
