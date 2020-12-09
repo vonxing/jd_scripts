@@ -173,8 +173,8 @@ const inviteCodes = ['ef21a879-d88b-4820-8a78-900c98c29579']
     })
 async function jdHealth() {
     $.bean = 0
-    await helpFriends();
     await taskList();
+    await helpFriends();
     message += `已做完任务，共计获得京豆 ${$.bean}\n`
     await showMsg();
 }
