@@ -73,6 +73,6 @@
 "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
 "59 23 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/DiDi/DiDi_reward.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
 "0 0 0,1 * * ? https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js, tag=qq会员成长值, img-url=https://raw.githubusercontent.com/Orz-3/task/master/qqvip.png",
-        "2 0 * * * https://raw.githubusercontent.com/vonxing/jd_scripts/master/jd_pubg.js, tag=京东PUBG, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd.png"
+        "2 0 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_pubg.js, tag=京东PUBG, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png"
     ]
 }
