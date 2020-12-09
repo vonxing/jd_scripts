@@ -207,6 +207,7 @@ function taskList(get=1) {
                     if (safeGet(data)) {
                         data = JSON.parse(data);
                         let vo = data.data[0]
+                        console.log(`${vo}`)
                         console.log(`您的${$.name}好友助力码为：${vo.shareId}`)
                         for (let i = 0; i< vo.venueList.length;++i){
                             let venue = vo.venueList[i]
