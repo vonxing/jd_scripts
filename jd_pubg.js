@@ -48,7 +48,7 @@ if ($.isNode()) {
 }
 //不需要这个
 const starID = [
-  ''
+  'PUBG'
 ];
 const shareID = [
   'ef21a879-d88b-4820-8a78-900c98c29579'
