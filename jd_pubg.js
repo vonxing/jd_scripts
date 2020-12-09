@@ -48,10 +48,11 @@ if ($.isNode()) {
 }
 //不需要这个
 const starID = [
-  'PUBG'
+  'PUBG',
 ];
 const shareID = [
-  'ef21a879-d88b-4820-8a78-900c98c29579'
+  'ef21a879-d88b-4820-8a78-900c98c29579',
+];
 const JD_API_HOST = 'https://starsingle.m.jd.com/guardianstar';//https://starsingle.m.jd.com/guardianstar/doTask
 !(async () => {
   if (!cookiesArr[0]) {
