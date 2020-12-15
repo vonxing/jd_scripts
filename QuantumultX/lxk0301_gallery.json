@@ -2,6 +2,7 @@
     "name":"lxk0301 task gallery",
     "description":"https://github.com/lxk0301/jd_scripts",
     "task":[
+      "0 0,9,11,13,15,17,19,20,21,23 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_live_redrain.js, tag=直播红包雨, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
         "10 6 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jr_sign.js, tag=金融打卡领年终奖, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png",
 "5,30 0,10 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
 "19 */3 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_fruit.js, tag=京东农场,, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png",
