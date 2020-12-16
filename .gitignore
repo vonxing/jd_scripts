@@ -7,3 +7,5 @@
 docker/docker-compose.yml
 docker/logs/jd_daily_egg.log
 docker/logs/jd_dreamFactory.log
+*.log
+docker/my_crontab_list.sh/my_crontab_list.sh1
